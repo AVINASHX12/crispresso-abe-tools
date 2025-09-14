@@ -1,0 +1,8 @@
+Sample	Position	Reference_base	Substitution	Count	Frequency
+sample1	4	A	A>G	10	0.05
+sample1	5	A	A>G	50	0.25
+sample1	6	A	A>G	70	0.35
+sample1	7	A	A>G	20	0.10
+sample1	8	C	C>T	5	0.025
+sample2	4	A	A>G	5	0.03
+sample2	6	A	A>G	30	0.18
